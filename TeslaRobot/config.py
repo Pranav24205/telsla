@@ -17,7 +17,7 @@ class Config(object):
     API_ID = 18564918  # integer value, dont use ""
     API_HASH = "fd99995bc013e54c3649fb563d1d18b9"
     TOKEN = "5125135313:AAFjn4IQPczC4P_9EcGTKVvYTJZTX6PIcjE"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = @its_pranav_xd  # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_ID = 1511373882   # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "its_pranav_xd" # Without @
     SUPPORT_CHAT = "TeslaRobo_Bot"  # Your own group for support, do not add the @
     JOIN_LOGGER = (
